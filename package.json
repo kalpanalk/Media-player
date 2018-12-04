@@ -1,0 +1,26 @@
+{
+  "name": "media-player",
+  "version": "1.0.0",
+  "description": "Media player",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kalpanalk/Media-player.git"
+  },
+  "keywords": [
+    "h"
+  ],
+  "author": "Sumukh Shirodker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kalpanalk/Media-player/issues"
+  },
+  "homepage": "https://github.com/kalpanalk/Media-player#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
