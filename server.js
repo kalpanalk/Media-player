@@ -7,7 +7,7 @@ app.get('/',(req,res)=>{
 	res.sendFile(__dirname+'/src/views/index.html');
 });
 app.get('/static/style/css',(req,res)=>{
-	res.sendFile(__dirname+'/src/css/style.css');
+	res.sendFile(__dirname+'/src/styles/style.css');
 });
 app.get('/static/js/script',(req,res)=>{
 	res.sendFile(__dirname+'/src/js/app.js')
